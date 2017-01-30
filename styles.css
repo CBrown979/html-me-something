@@ -12,8 +12,8 @@ p {
     text-align: justify;
 }
 
-.a name {
-    text-align: justify;
+#myIntro {
+    font-family: Impact;
 }
 
 .passportlist {
